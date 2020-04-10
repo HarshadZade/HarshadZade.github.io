@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reconfigurable Robotics | Roboticist</title>
+    <link>HarshadZade.github.io/tags/reconfigurable-robotics/</link>
+      <atom:link href="HarshadZade.github.io/tags/reconfigurable-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reconfigurable Robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>HarshadZade.github.io/img/Picture.jpg</url>
+      <title>Reconfigurable Robotics</title>
+      <link>HarshadZade.github.io/tags/reconfigurable-robotics/</link>
+    </image>
+    
+    <item>
+      <title>Bi-Serpentine Quadrupedal robot (BiSerQ)</title>
+      <link>HarshadZade.github.io/project/snake/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>HarshadZade.github.io/project/snake/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Snake robots provide an efficient mobility solution  for traversing through pipes, crevasses and rough terrain but are limited when traversing over structured environments. Also, autonomous path planning is still a challenging area for snakes.
+In comparison, legged robots do not suffer from these limitations but may not be as robust as snake robots when moving in rough terrain.
+In general, snakes and legged robots have different efficiencies, speed, payload capacity, etc., depending on the type of environment that the robot is trying to traverse.
+Furthermore, similar trade-offs exists for different type of legged robots such as biped and quadrupeds.
+A large body of prior work exists on re-configurable robots to get the best of all these worlds.
+However, most of these solutions consist of a large number of complicated mechanisms to detach and re-attach at different places making the system fragile and increase its size, weight and powe (SWaP).
+We propose a &lt;strong&gt;Bi-Serpentine Quadrupedal robot (BiSerQ)&lt;/strong&gt; that easily transforms from snake robots to a quadruped with minimal change in modules.
+Experimental results on hardware demonstrate the mobility in both snake and quadruped modes and transition between them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
