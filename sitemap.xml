@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://harshadzade.github.io/talk/</loc>
+    <lastmod>2020-06-15T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/talk/india_science_mag/</loc>
+    <lastmod>2020-06-15T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/</loc>
+    <lastmod>2020-06-15T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/bio-inspired-robotics/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/covid-19/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/differential-drive-robot/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/snake/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/reconfigurable-robotics/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/sahayak/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/snake-robots/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/social-robotics/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tags/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/embedded-systems/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/swarm/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/swarm-robotics/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/harmonic/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/image-processing/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/matlab/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/designed-a-manually-controlled-mobile-robot/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/fabricated-a-cell-phone-charger/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/fabricated-a-clap-switch/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/hobby/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/tag/line-follower-bot/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshadzade.github.io/publication-type/3/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/__harshad-zade__/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/ajinkya-kamat/</loc>
+  </url><url>
     <loc>https://harshadzade.github.io/author/ajinkya-kamat/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/author/anshul-paigwar/</loc>
@@ -10,22 +88,34 @@
   </url><url>
     <loc>https://harshadzade.github.io/categories/</loc>
   </url><url>
+    <loc>https://harshadzade.github.io/tag/demo/</loc>
+  </url><url>
     <loc>https://harshadzade.github.io/author/dr.-shital-s.-chiddarwar/</loc>
   </url><url>
+    <loc>https://harshadzade.github.io/publication/</loc>
+  </url><url>
     <loc>https://harshadzade.github.io/author/harshad-zade/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/project/laser_security/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/mayuresh-bhoyar/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/mayuresh-sarode/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/neha-marne/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/publication/conference-paper/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/post/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/publication_types/</loc>
   </url><url>
-    <loc>https://harshadzade.github.io/publication/</loc>
-  </url><url>
-    <loc>https://harshadzade.github.io/talk/</loc>
-  </url><url>
-    <loc>https://harshadzade.github.io/</loc>
-  </url><url>
     <loc>https://harshadzade.github.io/author/rohan-thakker/</loc>
   </url><url>
-    <loc>https://harshadzade.github.io/tags/</loc>
+    <loc>https://harshadzade.github.io/tag/source-themes/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/unmesh-patil/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/vedant-ranade/</loc>
   </url>
 </urlset>

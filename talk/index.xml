@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Roboticist</title>
+    <title>Featured | Roboticist</title>
     <link>https://harshadzade.github.io/talk/</link>
       <atom:link href="https://harshadzade.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Featured</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2020 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harshadzade.github.io/media/Picture.jpg</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Featured</title>
       <link>https://harshadzade.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Featured in Newapapers, Magazines</title>
+      <link>https://harshadzade.github.io/talk/india_science_mag/</link>
+      <pubDate>Mon, 15 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/talk/india_science_mag/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

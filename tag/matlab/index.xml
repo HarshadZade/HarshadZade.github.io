@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB | Roboticist</title>
+    <link>https://harshadzade.github.io/tag/matlab/</link>
+      <atom:link href="https://harshadzade.github.io/tag/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>MATLAB</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>MATLAB</title>
+      <link>https://harshadzade.github.io/tag/matlab/</link>
+    </image>
+    
+    <item>
+      <title>Harmonic Motion Analyser</title>
+      <link>https://harshadzade.github.io/project/harmonic/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/project/harmonic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

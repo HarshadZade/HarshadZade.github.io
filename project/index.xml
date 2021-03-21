@@ -1,68 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Roboticist</title>
+    <title>Projects | Roboticist</title>
     <link>https://harshadzade.github.io/project/</link>
-    <description>Recent content in Projects on Roboticist</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://harshadzade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://harshadzade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Projects</title>
+      <link>https://harshadzade.github.io/project/</link>
+    </image>
     
     <item>
       <title>Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)</title>
       <link>https://harshadzade.github.io/project/snake/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/snake/</guid>
-      <description>A re-configurable robot which can transition into biped, quadruped and snake configurations without any re-arrangement of modules.</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Selection of mobility modes for robot navigation consists of various trade-offs. Snake robots are ideal for traversing through constrained environments such as pipes, cluttered  and rough terrain whereas bipedal robots are more suited for structured environments such as stairs. Finally, quadruped robots are more agile than bipeds and can carry larger payloads than snake robots but struggle to navigate through soft soil, sand, ice and constrained environments. A Re-configurable robot can achieve the best of all worlds.
+Unfortunately, state-of-the-art re-configurable robots rely on rearrangement of modules through complicated mechanisms to dissemble and assemble at different places which increases its size, weight and power (SWaP) requirements. We propose Re-configurable Quadrupedal-Bipedal Snake Robots (ReQuBiS) which is capable of transforming between mobility modes without any rearrangement of modules. Hence, requiring just a single modification mechanism. Furthermore, our design allows the robot to split into two agents to perform tasks in parallel for biped and snake mobility. Experimental results demonstrate these mobility capabilities in snake, quadruped and biped modes along with transition between them.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Sahayak</title>
       <link>https://harshadzade.github.io/project/sahayak/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/sahayak/</guid>
-      <description>A teleoperated differential-drive robot to deliver food packets and medicines to the COVID patients. Doctors can interact with patients from a safe distance using the onboard video conferencing system.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Multi Agent Wireless Sensor Network</title>
       <link>https://harshadzade.github.io/project/swarm/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/swarm/</guid>
-      <description>Implemented a mesh network based on IEEE 802.15.4 to establish consensus in a swarm of robots. Established handshake using Atmega328p as well as TIVA TM4C123GXL launchpad.</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Imitation of swarming behaviors of social animals offers a new way of designing systems due to simple rules, local interactions, robustness, scalability, and flexibility. Following this method, a swarm of multiple robots can cooperatively achieve a goal with collective intelligence.  However, only a few such robotic systems are developed, and again very few are deployed outside of lab environments. The reason behind this is the lack of easy-to-deploy communication stack and a versatile library of essential swarm building functions from a hardware perspective.  As a result, most researchers choose the option of simulation only. Hence in this article, we present an open source library integrated with a communication stack and tools which simplifies the process of hardware-level implementation of swarm algorithms. As the library presents multiple functions which are identified as basic building blocks of various swarm algorithms, it helps the user in creating future algorithms. Also, this library is open for collaborations from community and has a potential to become single solution for all swarm related applications.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Harmonic Motion Analyser</title>
       <link>https://harshadzade.github.io/project/harmonic/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/harmonic/</guid>
-      <description>MATLAB based program to analyze motion equation and parameters. I Designed an algorithm for tracing path of a damped oscillator.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Hobby Projects</title>
       <link>https://harshadzade.github.io/project/hobby/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/hobby/</guid>
-      <description>I enjoy taking up small handy projects like &lt;strong&gt;Line follower bot&lt;/strong&gt;, &lt;strong&gt;Designed a manually controlled mobile robot&lt;/strong&gt;, &lt;strong&gt;Fabricated a clap switch&lt;/strong&gt;, &lt;strong&gt;Fabricated a cell phone charger&lt;/strong&gt;.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Laser Security System</title>
       <link>https://harshadzade.github.io/project/laser_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://harshadzade.github.io/project/laser_security/</guid>
-      <description>Implemented a laser security system with push notifications capability and real-time monitoring.</description>
+      <description></description>
     </item>
     
   </channel>

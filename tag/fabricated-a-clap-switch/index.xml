@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabricated a clap switch | Roboticist</title>
+    <link>https://harshadzade.github.io/tag/fabricated-a-clap-switch/</link>
+      <atom:link href="https://harshadzade.github.io/tag/fabricated-a-clap-switch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabricated a clap switch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Fabricated a clap switch</title>
+      <link>https://harshadzade.github.io/tag/fabricated-a-clap-switch/</link>
+    </image>
+    
+    <item>
+      <title>Hobby Projects</title>
+      <link>https://harshadzade.github.io/project/hobby/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/project/hobby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
