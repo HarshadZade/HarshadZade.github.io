@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajinkya Kamat | Roboticist</title>
+    <link>https://harshadzade.github.io/author/ajinkya-kamat/</link>
+      <atom:link href="https://harshadzade.github.io/author/ajinkya-kamat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ajinkya Kamat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Ajinkya Kamat</title>
+      <link>https://harshadzade.github.io/author/ajinkya-kamat/</link>
+    </image>
+    
+  </channel>
+</rss>

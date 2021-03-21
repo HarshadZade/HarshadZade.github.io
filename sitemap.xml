@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harshadzade.github.io/</loc>
+    <loc>https://harshadzade.github.io/author/ajinkya-kamat/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/anshul-paigwar/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/authors/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/categories/</loc>
   </url><url>
-    <loc>https://harshadzade.github.io/author/nelson-bighetti/</loc>
+    <loc>https://harshadzade.github.io/author/dr.-shital-s.-chiddarwar/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/harshad-zade/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/post/</loc>
   </url><url>
@@ -17,6 +21,10 @@
     <loc>https://harshadzade.github.io/publication/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/talk/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/</loc>
+  </url><url>
+    <loc>https://harshadzade.github.io/author/rohan-thakker/</loc>
   </url><url>
     <loc>https://harshadzade.github.io/tags/</loc>
   </url>

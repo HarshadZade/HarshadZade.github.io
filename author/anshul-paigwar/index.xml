@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anshul Paigwar | Roboticist</title>
+    <link>https://harshadzade.github.io/author/anshul-paigwar/</link>
+      <atom:link href="https://harshadzade.github.io/author/anshul-paigwar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anshul Paigwar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Anshul Paigwar</title>
+      <link>https://harshadzade.github.io/author/anshul-paigwar/</link>
+    </image>
+    
+  </channel>
+</rss>
