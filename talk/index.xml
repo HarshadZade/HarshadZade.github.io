@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Roboticist</title>
-    <link>HarshadZade.github.io/talk/</link>
-      <atom:link href="HarshadZade.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>HarshadZade.github.io/img/Picture.jpg</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>HarshadZade.github.io/talk/</link>
-    </image>
+    <title>Featured on Roboticist</title>
+    <link>https://harshad-zade.netlify.app/talk/</link>
+    <description>Recent content in Featured on Roboticist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harshad-zade.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Featured Newapapers, Magazines</title>
+      <link>https://harshad-zade.netlify.app/talk/india_science_mag/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshad-zade.netlify.app/talk/india_science_mag/</guid>
+      <description>I was interviewd by the India Science Magazine with regard to the Sahayak Robot which was developed to aid doctors and nurses in treating COVID affected patients.</description>
+    </item>
     
   </channel>
 </rss>

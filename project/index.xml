@@ -1,66 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Roboticist</title>
-    <link>HarshadZade.github.io/project/</link>
-      <atom:link href="HarshadZade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>HarshadZade.github.io/img/Picture.jpg</url>
-      <title>Projects</title>
-      <link>HarshadZade.github.io/project/</link>
-    </image>
+    <title>Projects on Roboticist</title>
+    <link>https://harshad-zade.netlify.app/project/</link>
+    <description>Recent content in Projects on Roboticist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harshad-zade.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Bi-Serpentine Quadrupedal robot (BiSerQ)</title>
-      <link>HarshadZade.github.io/project/snake/</link>
+      <title>Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)</title>
+      <link>https://harshad-zade.netlify.app/project/snake/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/snake/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Snake robots provide an efficient mobility solution  for traversing through pipes, crevasses and rough terrain but are limited when traversing over structured environments. Also, autonomous path planning is still a challenging area for snakes.
-In comparison, legged robots do not suffer from these limitations but may not be as robust as snake robots when moving in rough terrain.
-In general, snakes and legged robots have different efficiencies, speed, payload capacity, etc., depending on the type of environment that the robot is trying to traverse.
-Furthermore, similar trade-offs exists for different type of legged robots such as biped and quadrupeds.
-A large body of prior work exists on re-configurable robots to get the best of all these worlds.
-However, most of these solutions consist of a large number of complicated mechanisms to detach and re-attach at different places making the system fragile and increase its size, weight and powe (SWaP).
-We propose a &lt;strong&gt;Bi-Serpentine Quadrupedal robot (BiSerQ)&lt;/strong&gt; that easily transforms from snake robots to a quadruped with minimal change in modules.
-Experimental results on hardware demonstrate the mobility in both snake and quadruped modes and transition between them.&lt;/p&gt;
-</description>
+      
+      <guid>https://harshad-zade.netlify.app/project/snake/</guid>
+      <description>A re-configurable robot which can transition into biped, quadruped and snake configurations without any re-arrangement of modules.</description>
+    </item>
+    
+    <item>
+      <title>Sahayak</title>
+      <link>https://harshad-zade.netlify.app/project/sahayak/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshad-zade.netlify.app/project/sahayak/</guid>
+      <description>A teleoperated differential-drive robot to deliver food packets and medicines to the COVID patients. Doctors can interact with patients from a safe distance using the onboard video conferencing system.</description>
     </item>
     
     <item>
       <title>Multi Agent Wireless Sensor Network</title>
-      <link>HarshadZade.github.io/project/swarm/</link>
+      <link>https://harshad-zade.netlify.app/project/swarm/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/swarm/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Imitation of swarming behaviors of social animals offers a new way of designing systems due to simple rules, local interactions, robustness, scalability, and flexibility. Following this method, a swarm of multiple robots can cooperatively achieve a goal with collective intelligence.  However, only a few such robotic systems are developed, and again very few are deployed outside of lab environments. The reason behind this is the lack of easy-to-deploy communication stack and a versatile library of essential swarm building functions from a hardware perspective.  As a result, most researchers choose the option of simulation only. Hence in this article, we present an open source library integrated with a communication stack and tools which simplifies the process of hardware-level implementation of swarm algorithms. As the library presents multiple functions which are identified as basic building blocks of various swarm algorithms, it helps the user in creating future algorithms. Also, this library is open for collaborations from community and has a potential to become single solution for all swarm related applications.&lt;/p&gt;
-</description>
+      
+      <guid>https://harshad-zade.netlify.app/project/swarm/</guid>
+      <description>Implemented a mesh network based on IEEE 802.15.4 to establish consensus in a swarm of robots. Established handshake using Atmega328p as well as TIVA TM4C123GXL launchpad.</description>
     </item>
     
     <item>
       <title>Harmonic Motion Analyser</title>
-      <link>HarshadZade.github.io/project/harmonic/</link>
+      <link>https://harshad-zade.netlify.app/project/harmonic/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/harmonic/</guid>
-      <description></description>
+      
+      <guid>https://harshad-zade.netlify.app/project/harmonic/</guid>
+      <description>MATLAB based program to analyze motion equation and parameters. I Designed an algorithm for tracing path of a damped oscillator.</description>
     </item>
     
     <item>
       <title>Hobby Projects</title>
-      <link>HarshadZade.github.io/project/hobby/</link>
+      <link>https://harshad-zade.netlify.app/project/hobby/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/hobby/</guid>
-      <description></description>
+      
+      <guid>https://harshad-zade.netlify.app/project/hobby/</guid>
+      <description>I enjoy taking up small handy projects like &lt;strong&gt;Line follower bot&lt;/strong&gt;, &lt;strong&gt;Designed a manually controlled mobile robot&lt;/strong&gt;, &lt;strong&gt;Fabricated a clap switch&lt;/strong&gt;, &lt;strong&gt;Fabricated a cell phone charger&lt;/strong&gt;.</description>
     </item>
     
     <item>
       <title>Laser Security System</title>
-      <link>HarshadZade.github.io/project/laser_security/</link>
+      <link>https://harshad-zade.netlify.app/project/laser_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/laser_security/</guid>
-      <description></description>
+      
+      <guid>https://harshad-zade.netlify.app/project/laser_security/</guid>
+      <description>Implemented a laser security system with push notifications capability and real-time monitoring.</description>
     </item>
     
   </channel>

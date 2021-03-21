@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image Processing | Roboticist</title>
-    <link>HarshadZade.github.io/tags/image-processing/</link>
-      <atom:link href="HarshadZade.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Image Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>HarshadZade.github.io/img/Picture.jpg</url>
-      <title>Image Processing</title>
-      <link>HarshadZade.github.io/tags/image-processing/</link>
-    </image>
+    <title>Image Processing on Roboticist</title>
+    <link>https://harshad-zade.netlify.app/tags/image-processing/</link>
+    <description>Recent content in Image Processing on Roboticist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harshad-zade.netlify.app/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Harmonic Motion Analyser</title>
-      <link>HarshadZade.github.io/project/harmonic/</link>
+      <link>https://harshad-zade.netlify.app/project/harmonic/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/harmonic/</guid>
-      <description></description>
+      
+      <guid>https://harshad-zade.netlify.app/project/harmonic/</guid>
+      <description>MATLAB based program to analyze motion equation and parameters. I Designed an algorithm for tracing path of a damped oscillator.</description>
     </item>
     
   </channel>

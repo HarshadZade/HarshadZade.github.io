@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricated a cell phone charger | Roboticist</title>
-    <link>HarshadZade.github.io/tags/fabricated-a-cell-phone-charger/</link>
-      <atom:link href="HarshadZade.github.io/tags/fabricated-a-cell-phone-charger/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fabricated a cell phone charger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>HarshadZade.github.io/img/Picture.jpg</url>
-      <title>Fabricated a cell phone charger</title>
-      <link>HarshadZade.github.io/tags/fabricated-a-cell-phone-charger/</link>
-    </image>
+    <title>Fabricated a cell phone charger on Roboticist</title>
+    <link>https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/</link>
+    <description>Recent content in Fabricated a cell phone charger on Roboticist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hobby Projects</title>
-      <link>HarshadZade.github.io/project/hobby/</link>
+      <link>https://harshad-zade.netlify.app/project/hobby/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>HarshadZade.github.io/project/hobby/</guid>
-      <description></description>
+      
+      <guid>https://harshad-zade.netlify.app/project/hobby/</guid>
+      <description>I enjoy taking up small handy projects like &lt;strong&gt;Line follower bot&lt;/strong&gt;, &lt;strong&gt;Designed a manually controlled mobile robot&lt;/strong&gt;, &lt;strong&gt;Fabricated a clap switch&lt;/strong&gt;, &lt;strong&gt;Fabricated a cell phone charger&lt;/strong&gt;.</description>
     </item>
     
   </channel>
