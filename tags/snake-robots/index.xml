@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snake Robots on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/snake-robots/</link>
+    <link>https://harshadzade.github.io/tags/snake-robots/</link>
     <description>Recent content in Snake Robots on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/snake-robots/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/snake-robots/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)</title>
-      <link>https://harshad-zade.netlify.app/project/snake/</link>
+      <link>https://harshadzade.github.io/project/snake/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/snake/</guid>
+      <guid>https://harshadzade.github.io/project/snake/</guid>
       <description>A re-configurable robot which can transition into biped, quadruped and snake configurations without any re-arrangement of modules.</description>
     </item>
     

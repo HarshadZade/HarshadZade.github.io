@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabricated a cell phone charger on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/</link>
+    <link>https://harshadzade.github.io/tags/fabricated-a-cell-phone-charger/</link>
     <description>Recent content in Fabricated a cell phone charger on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/fabricated-a-cell-phone-charger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hobby Projects</title>
-      <link>https://harshad-zade.netlify.app/project/hobby/</link>
+      <link>https://harshadzade.github.io/project/hobby/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/hobby/</guid>
+      <guid>https://harshadzade.github.io/project/hobby/</guid>
       <description>I enjoy taking up small handy projects like &lt;strong&gt;Line follower bot&lt;/strong&gt;, &lt;strong&gt;Designed a manually controlled mobile robot&lt;/strong&gt;, &lt;strong&gt;Fabricated a clap switch&lt;/strong&gt;, &lt;strong&gt;Fabricated a cell phone charger&lt;/strong&gt;.</description>
     </item>
     

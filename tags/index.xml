@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/</link>
+    <link>https://harshadzade.github.io/tags/</link>
     <description>Recent content in Tags on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bio-inspired Robotics</title>
-      <link>https://harshad-zade.netlify.app/tags/bio-inspired-robotics/</link>
+      <link>https://harshadzade.github.io/tags/bio-inspired-robotics/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/bio-inspired-robotics/</guid>
+      <guid>https://harshadzade.github.io/tags/bio-inspired-robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19</title>
-      <link>https://harshad-zade.netlify.app/tags/covid-19/</link>
+      <link>https://harshadzade.github.io/tags/covid-19/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/covid-19/</guid>
+      <guid>https://harshadzade.github.io/tags/covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Drive Robot</title>
-      <link>https://harshad-zade.netlify.app/tags/differential-drive-robot/</link>
+      <link>https://harshadzade.github.io/tags/differential-drive-robot/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/differential-drive-robot/</guid>
+      <guid>https://harshadzade.github.io/tags/differential-drive-robot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconfigurable Robotics</title>
-      <link>https://harshad-zade.netlify.app/tags/reconfigurable-robotics/</link>
+      <link>https://harshadzade.github.io/tags/reconfigurable-robotics/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/reconfigurable-robotics/</guid>
+      <guid>https://harshadzade.github.io/tags/reconfigurable-robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snake Robots</title>
-      <link>https://harshad-zade.netlify.app/tags/snake-robots/</link>
+      <link>https://harshadzade.github.io/tags/snake-robots/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/snake-robots/</guid>
+      <guid>https://harshadzade.github.io/tags/snake-robots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Robotics</title>
-      <link>https://harshad-zade.netlify.app/tags/social-robotics/</link>
+      <link>https://harshadzade.github.io/tags/social-robotics/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/social-robotics/</guid>
+      <guid>https://harshadzade.github.io/tags/social-robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded Systems</title>
-      <link>https://harshad-zade.netlify.app/tags/embedded-systems/</link>
+      <link>https://harshadzade.github.io/tags/embedded-systems/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/embedded-systems/</guid>
+      <guid>https://harshadzade.github.io/tags/embedded-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swarm Robotics</title>
-      <link>https://harshad-zade.netlify.app/tags/swarm-robotics/</link>
+      <link>https://harshadzade.github.io/tags/swarm-robotics/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/swarm-robotics/</guid>
+      <guid>https://harshadzade.github.io/tags/swarm-robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>https://harshad-zade.netlify.app/tags/image-processing/</link>
+      <link>https://harshadzade.github.io/tags/image-processing/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/image-processing/</guid>
+      <guid>https://harshadzade.github.io/tags/image-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MATLAB</title>
-      <link>https://harshad-zade.netlify.app/tags/matlab/</link>
+      <link>https://harshadzade.github.io/tags/matlab/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/matlab/</guid>
+      <guid>https://harshadzade.github.io/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designed a manually controlled mobile robot</title>
-      <link>https://harshad-zade.netlify.app/tags/designed-a-manually-controlled-mobile-robot/</link>
+      <link>https://harshadzade.github.io/tags/designed-a-manually-controlled-mobile-robot/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/designed-a-manually-controlled-mobile-robot/</guid>
+      <guid>https://harshadzade.github.io/tags/designed-a-manually-controlled-mobile-robot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabricated a cell phone charger</title>
-      <link>https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/</link>
+      <link>https://harshadzade.github.io/tags/fabricated-a-cell-phone-charger/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/fabricated-a-cell-phone-charger/</guid>
+      <guid>https://harshadzade.github.io/tags/fabricated-a-cell-phone-charger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabricated a clap switch</title>
-      <link>https://harshad-zade.netlify.app/tags/fabricated-a-clap-switch/</link>
+      <link>https://harshadzade.github.io/tags/fabricated-a-clap-switch/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/fabricated-a-clap-switch/</guid>
+      <guid>https://harshadzade.github.io/tags/fabricated-a-clap-switch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Line follower bot</title>
-      <link>https://harshad-zade.netlify.app/tags/line-follower-bot/</link>
+      <link>https://harshadzade.github.io/tags/line-follower-bot/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/line-follower-bot/</guid>
+      <guid>https://harshadzade.github.io/tags/line-follower-bot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://harshad-zade.netlify.app/tags/demo/</link>
+      <link>https://harshadzade.github.io/tags/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/demo/</guid>
+      <guid>https://harshadzade.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://harshad-zade.netlify.app/tags/source-themes/</link>
+      <link>https://harshadzade.github.io/tags/source-themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/tags/source-themes/</guid>
+      <guid>https://harshadzade.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     

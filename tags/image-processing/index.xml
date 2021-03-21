@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/image-processing/</link>
+    <link>https://harshadzade.github.io/tags/image-processing/</link>
     <description>Recent content in Image Processing on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Harmonic Motion Analyser</title>
-      <link>https://harshad-zade.netlify.app/project/harmonic/</link>
+      <link>https://harshadzade.github.io/project/harmonic/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/harmonic/</guid>
+      <guid>https://harshadzade.github.io/project/harmonic/</guid>
       <description>MATLAB based program to analyze motion equation and parameters. I Designed an algorithm for tracing path of a damped oscillator.</description>
     </item>
     

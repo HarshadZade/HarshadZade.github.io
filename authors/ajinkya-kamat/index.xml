@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajinkya Kamat on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/authors/ajinkya-kamat/</link>
+    <link>https://harshadzade.github.io/authors/ajinkya-kamat/</link>
     <description>Recent content in Ajinkya Kamat on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://harshad-zade.netlify.app/authors/ajinkya-kamat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/authors/ajinkya-kamat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OLSAC: Open-Source Library for Swarm Algorithms and Communication</title>
-      <link>https://harshad-zade.netlify.app/publication/conference-paper/</link>
+      <link>https://harshadzade.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/publication/conference-paper/</guid>
+      <guid>https://harshadzade.github.io/publication/conference-paper/</guid>
       <description>The library presents multiple functions which are identified as basic building blocks of various swarm algorithms, it helps the user in creating future algorithms. Also, this library is open for collaborations from community and has a potential to become single solution for all swarm related applications.</description>
     </item>
     

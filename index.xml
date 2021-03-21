@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roboticist</title>
-    <link>https://harshad-zade.netlify.app/</link>
+    <link>https://harshadzade.github.io/</link>
     <description>Recent content on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Featured Newapapers, Magazines</title>
-      <link>https://harshad-zade.netlify.app/talk/india_science_mag/</link>
+      <link>https://harshadzade.github.io/talk/india_science_mag/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/talk/india_science_mag/</guid>
+      <guid>https://harshadzade.github.io/talk/india_science_mag/</guid>
       <description>I was interviewd by the India Science Magazine with regard to the Sahayak Robot which was developed to aid doctors and nurses in treating COVID affected patients.</description>
     </item>
     
     <item>
       <title>Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)</title>
-      <link>https://harshad-zade.netlify.app/project/snake/</link>
+      <link>https://harshadzade.github.io/project/snake/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/snake/</guid>
+      <guid>https://harshadzade.github.io/project/snake/</guid>
       <description>A re-configurable robot which can transition into biped, quadruped and snake configurations without any re-arrangement of modules.</description>
     </item>
     
     <item>
       <title>Sahayak</title>
-      <link>https://harshad-zade.netlify.app/project/sahayak/</link>
+      <link>https://harshadzade.github.io/project/sahayak/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/sahayak/</guid>
+      <guid>https://harshadzade.github.io/project/sahayak/</guid>
       <description>A teleoperated differential-drive robot to deliver food packets and medicines to the COVID patients. Doctors can interact with patients from a safe distance using the onboard video conferencing system.</description>
     </item>
     
     <item>
       <title>Multi Agent Wireless Sensor Network</title>
-      <link>https://harshad-zade.netlify.app/project/swarm/</link>
+      <link>https://harshadzade.github.io/project/swarm/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/swarm/</guid>
+      <guid>https://harshadzade.github.io/project/swarm/</guid>
       <description>Implemented a mesh network based on IEEE 802.15.4 to establish consensus in a swarm of robots. Established handshake using Atmega328p as well as TIVA TM4C123GXL launchpad.</description>
     </item>
     
     <item>
       <title>Harmonic Motion Analyser</title>
-      <link>https://harshad-zade.netlify.app/project/harmonic/</link>
+      <link>https://harshadzade.github.io/project/harmonic/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/harmonic/</guid>
+      <guid>https://harshadzade.github.io/project/harmonic/</guid>
       <description>MATLAB based program to analyze motion equation and parameters. I Designed an algorithm for tracing path of a damped oscillator.</description>
     </item>
     
     <item>
       <title>Hobby Projects</title>
-      <link>https://harshad-zade.netlify.app/project/hobby/</link>
+      <link>https://harshadzade.github.io/project/hobby/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/hobby/</guid>
+      <guid>https://harshadzade.github.io/project/hobby/</guid>
       <description>I enjoy taking up small handy projects like &lt;strong&gt;Line follower bot&lt;/strong&gt;, &lt;strong&gt;Designed a manually controlled mobile robot&lt;/strong&gt;, &lt;strong&gt;Fabricated a clap switch&lt;/strong&gt;, &lt;strong&gt;Fabricated a cell phone charger&lt;/strong&gt;.</description>
     </item>
     
     <item>
       <title>Laser Security System</title>
-      <link>https://harshad-zade.netlify.app/project/laser_security/</link>
+      <link>https://harshadzade.github.io/project/laser_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/laser_security/</guid>
+      <guid>https://harshadzade.github.io/project/laser_security/</guid>
       <description>Implemented a laser security system with push notifications capability and real-time monitoring.</description>
     </item>
     
     <item>
       <title>OLSAC: Open-Source Library for Swarm Algorithms and Communication</title>
-      <link>https://harshad-zade.netlify.app/publication/conference-paper/</link>
+      <link>https://harshadzade.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/publication/conference-paper/</guid>
+      <guid>https://harshadzade.github.io/publication/conference-paper/</guid>
       <description>The library presents multiple functions which are identified as basic building blocks of various swarm algorithms, it helps the user in creating future algorithms. Also, this library is open for collaborations from community and has a potential to become single solution for all swarm related applications.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedded Systems on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/embedded-systems/</link>
+    <link>https://harshadzade.github.io/tags/embedded-systems/</link>
     <description>Recent content in Embedded Systems on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multi Agent Wireless Sensor Network</title>
-      <link>https://harshad-zade.netlify.app/project/swarm/</link>
+      <link>https://harshadzade.github.io/project/swarm/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/swarm/</guid>
+      <guid>https://harshadzade.github.io/project/swarm/</guid>
       <description>Implemented a mesh network based on IEEE 802.15.4 to establish consensus in a swarm of robots. Established handshake using Atmega328p as well as TIVA TM4C123GXL launchpad.</description>
     </item>
     

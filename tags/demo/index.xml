@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Roboticist</title>
-    <link>https://harshad-zade.netlify.app/tags/demo/</link>
+    <link>https://harshadzade.github.io/tags/demo/</link>
     <description>Recent content in Demo on Roboticist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://harshad-zade.netlify.app/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://harshadzade.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Laser Security System</title>
-      <link>https://harshad-zade.netlify.app/project/laser_security/</link>
+      <link>https://harshadzade.github.io/project/laser_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harshad-zade.netlify.app/project/laser_security/</guid>
+      <guid>https://harshadzade.github.io/project/laser_security/</guid>
       <description>Implemented a laser security system with push notifications capability and real-time monitoring.</description>
     </item>
     
