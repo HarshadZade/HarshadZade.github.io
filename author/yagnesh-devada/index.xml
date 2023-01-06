@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yagnesh Devada | Roboticist</title>
+    <link>https://harshadzade.github.io/author/yagnesh-devada/</link>
+      <atom:link href="https://harshadzade.github.io/author/yagnesh-devada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yagnesh Devada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Yagnesh Devada</title>
+      <link>https://harshadzade.github.io/author/yagnesh-devada/</link>
+    </image>
+    
+    <item>
+      <title>Sahayak - An Autonomous COVID Aid Bot </title>
+      <link>https://harshadzade.github.io/publication/sahayak/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/publication/sahayak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

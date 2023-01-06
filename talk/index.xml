@@ -5,7 +5,7 @@
     <link>https://harshadzade.github.io/talk/</link>
       <atom:link href="https://harshadzade.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harshadzade.github.io/media/Picture.jpg</url>
       <title>Featured</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Excited to work on the MRSD capstone project with Professor Deepak Pathak!</title>
+      <link>https://harshadzade.github.io/talk/deepak_pathak/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/talk/deepak_pathak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accepted for the Master of Science (M.S.) in Robotic Systems Development (MRSD), Program at Carnegie Mellon University.</title>
+      <link>https://harshadzade.github.io/talk/mrsd/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/talk/mrsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-Technical Research Award</title>
+      <link>https://harshadzade.github.io/talk/felicitation/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/talk/felicitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Featured in Newapapers, Magazines</title>
       <link>https://harshadzade.github.io/talk/india_science_mag/</link>
-      <pubDate>Mon, 15 Jun 2020 15:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://harshadzade.github.io/talk/india_science_mag/</guid>
       <description></description>
     </item>

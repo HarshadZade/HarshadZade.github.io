@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shital Chiddarwar | Roboticist</title>
+    <link>https://harshadzade.github.io/author/shital-chiddarwar/</link>
+      <atom:link href="https://harshadzade.github.io/author/shital-chiddarwar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shital Chiddarwar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://harshadzade.github.io/media/Picture.jpg</url>
+      <title>Shital Chiddarwar</title>
+      <link>https://harshadzade.github.io/author/shital-chiddarwar/</link>
+    </image>
+    
+    <item>
+      <title>Sahayak - An Autonomous COVID Aid Bot </title>
+      <link>https://harshadzade.github.io/publication/sahayak/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/publication/sahayak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReQuBiS - Reconfigurable Quadrupedal-Bipedal Snake Robots</title>
+      <link>https://harshadzade.github.io/publication/requbis/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/publication/requbis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

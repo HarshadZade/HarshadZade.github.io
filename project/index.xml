@@ -5,12 +5,20 @@
     <link>https://harshadzade.github.io/project/</link>
       <atom:link href="https://harshadzade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harshadzade.github.io/media/Picture.jpg</url>
       <title>Projects</title>
       <link>https://harshadzade.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>GHAR - General Hardware Agnostic Robot software</title>
+      <link>https://harshadzade.github.io/project/hardware_agnostic_software/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://harshadzade.github.io/project/hardware_agnostic_software/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)</title>
